@@ -1,1 +1,2 @@
 # BotInsta
+## Desenvolvido por Pamela
